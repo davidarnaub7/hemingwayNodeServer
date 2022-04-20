@@ -1,0 +1,18 @@
+{
+    "env": {	
+    "NODE_ENV": "dev",	
+    "S3_WASABI_ACCESS_KEY":"",	
+    "S3_WASABI_PRIVATE_KEY":"",	
+    "S3_BUCKET": "",	
+    "S3_BUCKET_FOLDER": "Users",	
+    "SES_AMAZON_ACCESS_KEY":"",
+    "SES_AMAZON_PRIVATE_KEY":"",
+    "UNSPLASH_ACCESS_KEY":"",
+    "UNSPLASH_PRIVATE_KEY":"",
+    "PRIVATE_KEY": "DASDHASDKAS_ADASFASF",	
+    "PRIVATE_KEY_ENTER_CODE": "ADNWU12312_DAKADR",	
+    "HOME": "192.168.1.38",	
+    "PORT": "3000",	
+    "MONGO_HOME": "mongodb://127.0.0.1:27017/hemingway",	
+  }
+}
